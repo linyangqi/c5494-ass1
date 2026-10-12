@@ -1,0 +1,4 @@
+1.2 accomplish a neural based autoregressive model (e.g., one or multiple layers) for image generation on the binarized MNIST data. You may need to first create binarized images yourself (based on MNIST). The generated images do not have to be strictly 28x28 in size, you can choose an appropriate dimension based on your model design. The number of training images is also up to you to decide but ensure there are enough samples to train your autoregressive model, and you need to demonstrate your model’s generation capability (e.g., at least 10 images are recommended for submission).
+
+翻译
+1.2 实现一个基于神经网络的自回归模型（例如，一层或多层），用于在二值化 MNIST 数据上进行图像生成。你可能需要先自己基于 MNIST 创建二值化图像。生成的图像不必严格为 28×28 大小，你可以根据模型设计选择合适的维度。训练图像的数量也由你决定，但要确保有足够的样本用于训练你的自回归模型，并且你需要展示模型的生成能力（例如，建议提交至少 10 张图像）。
