@@ -1,6 +1,6 @@
-*/.ipynb_checkpoints
-*/.mplcache
-*/__pycache__
+*.ipynb_checkpoints/
+*.mplcache/
+*__pycache__/
 __pycache__/
 .mplcache/
 .jupyter/
