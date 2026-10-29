@@ -1,0 +1,6 @@
+executing 20 code cells from index range [0, 26)
+/Users/isamu/miniforge3/lib/python3.12/site-packages/IPython/paths.py:60: UserWarning: IPython dir '/Users/isamu/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{}' is not a writable location,"
+/Users/isamu/miniforge3/lib/python3.12/site-packages/IPython/paths.py:60: UserWarning: IPython dir '/Users/isamu/.ipython' is not a writable location, using a temp directory.
+  warn("IPython dir '{}' is not a writable location,"
+[IPKernelApp] WARNING | Kernel is running over TCP without encryption. All communication (including code and outputs) is sent in plain text and is susceptible to eavesdropping. Use IPC transport or launch with kernel manager-provisioned CurveZMQ keys to enable transport encryption.
