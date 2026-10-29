@@ -1,4 +1,0 @@
-1.1 accomplish a Fully Visible Sigmoid Belief Network (e.g., logistic regression) for image generation on the binarized MNIST data.
-
-翻译：
-实现一个全可见 Sigmoid 信念网络（例如逻辑回归），用于在二值化 MNIST 数据上进行图像生成。

@@ -1,1 +1,3 @@
-/.ipynb_checkpoints
+*/.ipynb_checkpoints
+*/.mplcache
+*/__pycache__
