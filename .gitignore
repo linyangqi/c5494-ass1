@@ -1,3 +1,11 @@
 */.ipynb_checkpoints
 */.mplcache
 */__pycache__
+__pycache__/
+.mplcache/
+.jupyter/
+.ipython/
+.ipynb_checkpoints/
+Task1_1_1_2/data/
+Task1_1_1_2/results/
+Task1_1_1_2/provenance/
